@@ -21,7 +21,7 @@
     "body-parser": "^1.17.2",
     "crypto": "0.0.3",
     "expo-server-sdk": "^2.3.1",
-    "express": "^4.15.4",
+    "express": "^4.18.3",
     "jsonwebtoken": "^7.4.2",
     "mongoose": "^4.11.6",
     "morgan": "^1.8.2",
